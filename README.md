@@ -1,3 +1,4 @@
+![C++](https://img.shields.io/badge/language-C++-blue)
 # 🎓 Advanced Student Management System
 
 > A fully-featured, file-persistent, CLI-based Student Management System built in modern C++17.  
