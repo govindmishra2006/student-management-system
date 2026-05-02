@@ -5,11 +5,6 @@
 
 ---
 
-## 🌐 Live Demo
-👉 *(Add your deployed / recorded demo link here)*
-
----
-
 ## 📸 Preview
 ![App Screenshot](screenshot.png)
 
